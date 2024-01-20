@@ -41,6 +41,8 @@ viii. Content Rating: Age group the app is targeted at - Children / Mature 21+ /
 
 Adult ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Family genres. x. Last Updated: Date when the app was last updated xi. Current Ver: Current version of the app available on Play Store xii. Android Ver: Min required Android version.
 
+
+
 Frequency for the category of apps (showing the number of app per category)
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/8d2cc444-eed5-4cb6-b3be-34941b83d5eb)
 
@@ -51,6 +53,10 @@ we train the model using LinearRegression() function.
 Residuals versus fits plot.
 
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/b499bec1-8226-4e8c-b4f0-52d6d89ae12e)
+
+Model Fitting and coefficients
+![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/3891d24d-90e7-4f4c-a8c1-e574c21c2d86)
+
 
 Regression equation
 
