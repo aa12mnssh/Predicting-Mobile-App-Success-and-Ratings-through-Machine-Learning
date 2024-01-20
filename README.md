@@ -28,6 +28,7 @@ Methodology
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/16050179-0ef7-4cc5-8540-c611b0958195)
 
 DATASET DESCRIPTION
+
 The dataset, ‘Google Play Store Apps’ was obtained from Kaggle and used for this study. No of observation (rows): 10840 https://www.kaggle.com/lava18/google-play-store-apps Indepdendent variables
 i. App: This contains the application name
 ii. Category: Category of the app
@@ -48,11 +49,14 @@ The dataset is split into train and test set. The model is trained using train t
 we train the model using LinearRegression() function.
 
 Residuals versus fits plot.
+
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/b499bec1-8226-4e8c-b4f0-52d6d89ae12e)
 
 Regression equation
 
-alt text
+![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/79a3ce63-d493-43f8-9a2d-7f8283128b62)
+
+
 
 Bar Graph Predicted Vs Actual Values
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/2a1bd12f-ee7d-4e7e-920f-1032a13ae5e2)
