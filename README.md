@@ -43,6 +43,8 @@ Adult ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Fam
 
 
 
+
+
 Frequency for the category of apps (showing the number of app per category)
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/8d2cc444-eed5-4cb6-b3be-34941b83d5eb)
 
