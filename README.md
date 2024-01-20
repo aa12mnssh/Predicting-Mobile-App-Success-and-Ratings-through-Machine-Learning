@@ -25,7 +25,9 @@ increased installations.
 
 Methodology
 
+
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/16050179-0ef7-4cc5-8540-c611b0958195)
+
 
 DATASET DESCRIPTION
 
@@ -48,6 +50,8 @@ Adult ix. Genres: multiple genres (For eg, a game can belong to Music, Game, Fam
 Frequency for the category of apps (showing the number of app per category)
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/8d2cc444-eed5-4cb6-b3be-34941b83d5eb)
 
+
+
 The dataset is split into train and test set. The model is trained using train test and then values are predicted using this model with test set as input. Train set: 70% and Test set: 30%.
 
 we train the model using LinearRegression() function.
@@ -56,7 +60,10 @@ Residuals versus fits plot.
 
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/b499bec1-8226-4e8c-b4f0-52d6d89ae12e)
 
+
+
 Model Fitting and coefficients
+
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/3891d24d-90e7-4f4c-a8c1-e574c21c2d86)
 
 
@@ -66,7 +73,9 @@ Regression equation
 
 
 
+
 Bar Graph Predicted Vs Actual Values
+
 ![image](https://github.com/aa12mnssh/Predicting-Mobile-App-Success-and-Ratings-through-Machine-Learning/assets/102961461/2a1bd12f-ee7d-4e7e-920f-1032a13ae5e2)
 
 
